@@ -11,6 +11,10 @@ Then
 
 Executable in dist directory.
 
+Also works for multiple files
+
+    pyinstaller --onefile test.py person.py
+
 ## Learn Python?
 
 * https://pythonbasics.org/
